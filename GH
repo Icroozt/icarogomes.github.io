@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Transforme seu Corpo</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+    }
+    .section {
+      width: 100%;
+      display: block;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="section"><img src="1_Transforme-seu-Corpo-Aumente-o-GH-Naturalmente-por-Apenas-Rdollar25.png" alt="Capa" /></div>
+  <div class="section"><img src="2_Beneficios-do-Hormonio-do-Crescimento-para-Saude-e-Performance.png" alt="Benefícios do GH" /></div>
+  <div class="section"><img src="3_Exercicios-Comprovados-que-Estimulam-a-Producao-de-GH.png" alt="Exercícios para GH" /></div>
+  <div class="section"><img src="4_Nossa-Metodologia-Exclusiva-de-Treinamento.png" alt="Metodologia" /></div>
+  <div class="section"><img src="5_Depoimentos-de-Clientes-que-Transformaram-seus-Corpos.png" alt="Depoimentos" /></div>
+  <div class="section"><img src="6_O-que-Voce-Recebera-no-Pacote-de-Rdollar25.png" alt="O que você recebe" /></div>
+  <div class="section"><img src="7_Perguntas-Frequentes-sobre-GH-e-Exercicios.png" alt="FAQ" /></div>
+  <div class="section"><img src="8_Oferta-Especial-Garanta-seu-Acesso-Agora-por-Apenas-Rdollar25.png" alt="Oferta especial" /></div>
+</body>
+</html>
